@@ -1,0 +1,11 @@
+/home/intern/work/dotNet/bin/Debug/netcoreapp3.1/dotNet
+/home/intern/work/dotNet/bin/Debug/netcoreapp3.1/dotNet.deps.json
+/home/intern/work/dotNet/bin/Debug/netcoreapp3.1/dotNet.runtimeconfig.json
+/home/intern/work/dotNet/bin/Debug/netcoreapp3.1/dotNet.runtimeconfig.dev.json
+/home/intern/work/dotNet/bin/Debug/netcoreapp3.1/dotNet.dll
+/home/intern/work/dotNet/bin/Debug/netcoreapp3.1/dotNet.pdb
+/home/intern/work/dotNet/obj/Debug/netcoreapp3.1/dotNet.csprojAssemblyReference.cache
+/home/intern/work/dotNet/obj/Debug/netcoreapp3.1/dotNet.AssemblyInfoInputs.cache
+/home/intern/work/dotNet/obj/Debug/netcoreapp3.1/dotNet.AssemblyInfo.cs
+/home/intern/work/dotNet/obj/Debug/netcoreapp3.1/dotNet.dll
+/home/intern/work/dotNet/obj/Debug/netcoreapp3.1/dotNet.pdb
